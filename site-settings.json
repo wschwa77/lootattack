@@ -18,7 +18,7 @@
 		"features_list": ["Create a free account.", "Write your stories."]
 	},
 	"top_banner": {
-		"enable": true,
+		"enable": false,
 		"description": "-50% Intro price for the next 72 hours only!.",
 		"end_link": {
 			"url": "https://themeforest.net/item/ncmaz-nextjs-headless-wordpress-blog-magazine/47815656",
@@ -81,7 +81,7 @@
 		}
 	},
 	"site_footer": {
-		"all_rights_reserved_text": "© 2023 ChisNghiax Company, Inc. All rights reserved."
+		"all_rights_reserved_text": "© 2024 Loot Attack. All rights reserved."
 	},
 	"single_page": {
 		"show_view_cout": true,
@@ -93,16 +93,16 @@
 			"title": "Recommended searches",
 			"items": [
 				{
-					"title": "Programming",
-					"url": "/search/posts/programming"
+					"title": "Elden Ring",
+					"url": "/search/posts/elden%20ring"
 				},
 				{
-					"title": "Design",
-					"url": "/search/posts/design"
+					"title": "Black Ops 6",
+					"url": "/search/posts/black%20ops%206"
 				},
 				{
-					"title": "Technology",
-					"url": "/search/posts/technology"
+					"title": "Video Games",
+					"url": "/search/posts/video%20games"
 				}
 			]
 		},
@@ -110,11 +110,11 @@
 		"show_newsletter_section": true
 	},
 	"archive_page": {
-		"show_newsletter_section": true,
+		"show_newsletter_section": false,
 		"show_top_categories": true
 	},
 	"author_page": {
-		"show_newsletter_section": true,
+		"show_newsletter_section": false,
 		"show_top_categories": true
 	},
 	"post_card": {
@@ -256,10 +256,10 @@
 		"sub_title": "Read and share new perspectives on just about any topic. Everyone’s welcome."
 	},
 	"cookies_policy_page": {
-		"uri": "#"
+		"uri": "/privacy-policy-2/"
 	},
 	"privacy_policy_page": {
-		"uri": "/privacy-policy",
+		"uri": "/privacy-policy-2/",
 		"title": "Privacy Policy"
 	},
 
