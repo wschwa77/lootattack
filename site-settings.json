@@ -44,8 +44,8 @@
 		"site_zip": "60564",
 		"site_country": "USA",
 		"site_url": "https://lootattack.com",
-		"site_logo": "/wp-content/uploads/2024/06/la-favicon-96.png",
-		"site_logo_light": "/wp-content/uploads/2024/06/la-favicon-96.png",
+		"site_logo": "https://gamescubed.com/wp-content/uploads/2024/06/la-favicon-96.png",
+		"site_logo_light": "https://gamescubed.com/wp-content/uploads/2024/06/la-favicon-96.png",
 		"site_favicon": "/lootattack.ico"
 	},
 	"site_socials": [
