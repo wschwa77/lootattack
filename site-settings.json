@@ -3,7 +3,7 @@
 	"mailpoet_api_key": "your_mailpoet_api_key",
 	"mailpoet_list_id": "3",
 	"subcription_widget": {
-		"enable": true,
+		"enable": false,
 		"title": "Stay up to date",
 		"description": "Get notified when I publish something new, and unsubscribe at any time.",
 		"placeholder": "Enter your email address",
@@ -11,7 +11,7 @@
 		"error_message": "Something went wrong. Please try again. If the problem persists, you can contact me."
 	},
 	"newsletter_section": {
-		"enable": true,
+		"enable": false,
 		"title": "Join our newsletter 🎉",
 		"description": "Read and share new perspectives on just about any topic. Everyone’s welcome.",
 		"right_image": "/images/SVG-subcribe2.png",
@@ -28,43 +28,43 @@
 	},
 	"top_category_section": {
 		"enable": true,
-		"title": "Discover top 10 categories",
-		"sub_title": "Let's explore the most popular categories"
+		"title": "Top categories on Loot Attack",
+		"sub_title": "Explore the most popular categories"
 	},
 	"site_info": {
-		"site_title": "Ncmaz Nextjs Blog",
-		"site_description": "Ncmaz Nextjs Blog headless WordPress",
-		"site_keywords": "Ncmaz Nextjs Blog",
-		"site_author": "ChisNghiax",
-		"site_email": "Your Email",
-		"site_phone": "Your Phone",
-		"site_address": "Your Address",
-		"site_city": "Your City",
-		"site_state": "Your State",
-		"site_zip": "Your Zip",
-		"site_country": "Your Country",
-		"site_url": "https://www.yoursite.com",
-		"site_logo": "/logo.png",
-		"site_logo_light": "/logo-light.png",
-		"site_favicon": "/favicon.png"
+		"site_title": "Loot Attack",
+		"site_description": "Expert Game Guides, Unbiased Reviews and the Latest Video Game News",
+		"site_keywords": "Video Games, ",
+		"site_author": "William Schwartz",
+		"site_email": "will@lootattack.com",
+		"site_phone": "985-264-2426",
+		"site_address": "2531 Accolade Ave",
+		"site_city": "Naperville",
+		"site_state": "Illinois",
+		"site_zip": "60564",
+		"site_country": "USA",
+		"site_url": "https://lootattack.com",
+		"site_logo": "/wp-content/uploads/2024/06/la-favicon-96.png",
+		"site_logo_light": "/wp-content/uploads/2024/06/la-favicon-96.png",
+		"site_favicon": "/lootattack.ico"
 	},
 	"site_socials": [
 		{
 			"name": "facebook",
-			"url": "https://www.facebook.com/yourfacebookpage",
+			"url": "https://www.facebook.com/profile.php?id=61560667642376",
 			"icon": "/images/socials/facebook.svg",
 			"description": "Follow us on Facebook"
 		},
 		{
 			"name": "twitter",
-			"url": "https://twitter.com/yourtwitterpage",
+			"url": "https://x.com/LootAttack",
 			"icon": "/images/socials/x-twitter.svg",
-			"description": "Follow us on Twitter"
+			"description": "Follow us on X"
 		},
 
 		{
-			"name": "github",
-			"url": "https://www.github.com/yourmediumpage",
+			"name": "youtube",
+			"url": "https://www.youtube.com/channel/UCNW6RLb6WAVznDrdfw9TD4Q",
 			"icon": "/images/socials/github.svg",
 			"description": "Follow us on Github"
 		},
@@ -107,7 +107,7 @@
 			]
 		},
 		"show_top_categories": true,
-		"show_newsletter_section": true
+		"show_newsletter_section": false
 	},
 	"archive_page": {
 		"show_newsletter_section": false,
@@ -118,11 +118,11 @@
 		"show_top_categories": true
 	},
 	"post_card": {
-		"show_view_cout": false,
+		"show_view_cout": true,
 		"show_comment_count": true
 	},
 	"submissions-settings": {
-		"enable": true,
+		"enable": false,
 		"max_categories_allowed": 3,
 		"max_tags_allowed": 5,
 		"allow_upload_media": true,
@@ -181,24 +181,24 @@
 		"title": "Lost your password?",
 		"sub_title": "Enter your email below to reset your password.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "The cake is a lie",
+			"author": "Loot Attack"
 		}
 	},
 	"signUp_page": {
 		"title": "Create an account",
 		"sub_title": "Enter your email below to create your account.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Praise the Sun",
+			"author": "Loot Attack"
 		}
 	},
 	"signIn_page": {
 		"title": "Sign in to your account",
 		"sub_title": "Enter your email below to sign in to your account.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "I used to be an adventurer like you. Then I took an arrow in the knee",
+			"author": "Loot Attack"
 		},
 		"lost_password": {
 			"is_use_lostpassword_default_of_wp": false,
