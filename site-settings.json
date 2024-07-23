@@ -65,8 +65,8 @@
 		{
 			"name": "youtube",
 			"url": "https://www.youtube.com/channel/UCNW6RLb6WAVznDrdfw9TD4Q",
-			"icon": "/images/socials/github.svg",
-			"description": "Follow us on Github"
+			"icon": "/images/socials/youtube.svg",
+			"description": "Follow us on Youtube"
 		},
 		{
 			"name": "tiktok",
