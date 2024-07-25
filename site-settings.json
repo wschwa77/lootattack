@@ -256,10 +256,10 @@
 		"sub_title": "Read and share new perspectives on just about any topic. Everyone’s welcome."
 	},
 	"cookies_policy_page": {
-		"uri": "/privacy-policy-2/"
+		"uri": "/privacy-policy/"
 	},
 	"privacy_policy_page": {
-		"uri": "/privacy-policy-2/",
+		"uri": "/privacy-policy/",
 		"title": "Privacy Policy"
 	},
 
