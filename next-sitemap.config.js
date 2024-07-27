@@ -5,10 +5,10 @@ const SITE_URL = process.env.NEXT_PUBLIC_URL
 module.exports = {
 	siteUrl: SITE_URL,
 	generateRobotsTxt: true,
-	exclude: ['/article-sitemap.xml'],
+	exclude: ['/wordpress-sitemap.xml'],
 	robotsTxtOptions: {
 		additionalSitemaps: [
-			`${SITE_URL}/article-sitemap.xml`, // <==== Add here
+			`${SITE_URL}/wordpress-sitemap.xml`, // <==== Add here
 		],
 	},
 	transform: (config, path) => {
