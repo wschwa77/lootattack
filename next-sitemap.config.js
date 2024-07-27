@@ -8,7 +8,7 @@ module.exports = {
 	exclude: ['/wordpress-sitemap.xml'],
 	robotsTxtOptions: {
 		additionalSitemaps: [
-			`${SITE_URL}/wordpress-sitemap.xml`, // <==== Add here
+			`${SITE_URL}/sitemap.xml`, // <==== Add here
 		],
 	},
 	transform: (config, path) => {
