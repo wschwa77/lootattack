@@ -29,7 +29,7 @@ const SingleType1: FC<SingleType1Props> = ({ post, showRightSidebar }) => {
   const imgHeight = featuredImage?.mediaDetails?.height || 750;
   return (
     <>
-      <div>Code Goes Here</div>
+      
       <div className={`nc-PageSingle pt-8 lg:pt-16`}>
         <header className="container rounded-xl">
           <div
