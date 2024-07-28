@@ -30,7 +30,7 @@ const SingleType1: FC<SingleType1Props> = ({ post, showRightSidebar }) => {
   return (
     <>
       <script type="application/ld+json">[ {
-    "@context": "http://schema.org", "@type": "WebSite", "name": "Attack of the Fanboy", "url": "https://attackofthefanboy.com", "sameAs": ["https://twitter.com/FanboyAttack", "https://www.facebook.com/AttackoftheFanboy", "https://www.twitch.tv/aotf", "https://www.youtube.com/FanboyAttack"]
+    "@context": "http://schema.org", "@type": "WebSite", "name": "LootAttack", "url": "https://lootattack.com", "sameAs": ["https://x.com/LootAttack", "https://www.facebook.com/profile.php?id=61560667642376", "https://www.youtube.com/channel/UCNW6RLb6WAVznDrdfw9TD4Q", "https://www.reddit.com/r/LootAttack/"]
 }
 
 ,
