@@ -15,7 +15,6 @@ export const Sidebar: FC<SidebarProps> = ({
 }) => {
   return (
 
-    <img src="https://members.lootattack.com/wp-content/uploads/2024/07/ffxiv-ad.jpg/>
     
     <div className={`nc-SingleSidebar ${className}`}>
       <WidgetAddSubscriberForm />
